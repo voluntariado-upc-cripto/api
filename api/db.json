@@ -1,9 +1,22 @@
 {
   "accounts": [
     {
-      "_id": "ed473d40-6a40-4680-9cfe-0e3cd437bf78",
-      "email": "aksoonie@gmail.com",
-      "pass": "carajo123"
+      "_id": "ffe6a173-5213-44e4-9152-ef13ad3a6858",
+      "email": "ejemplo_manual@gmail.com",
+      "pass": "-1321ac20",
+      "type": 0
+    },
+    {
+      "_id": "9ef4d0df-0ac1-494e-8d53-6ef5a3647f89",
+      "email": "ejemplo_sha@gmail.com",
+      "pass": "$2b$10$CgHvy5qOdH8WyX5NN0Z4D.jcglTj8LNUtuoqtEqGQ/NNWIcUXCv1C",
+      "type": 1
+    },
+    {
+      "_id": "2af1e7da-ded0-4d88-be70-3f05711efe85",
+      "email": "julio@america.pe",
+      "pass": "14521f29",
+      "type": 0
     }
-    ]
+  ]
 }
